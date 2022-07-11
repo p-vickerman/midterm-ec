@@ -19,5 +19,3 @@
         }
         return [smallest, secondSmallest]
     }
-let arr = [ 12, 13, 1, 10, 34, 1 ]; 
-console.log(twoSmallest(arr));
